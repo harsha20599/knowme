@@ -1,0 +1,20 @@
+#bg{
+	background: linear-gradient(to right,blue, purple);
+	
+	padding-bottom: 1rem;
+}
+#question {
+	
+	padding-bottom: 1rem;
+}
+#usertitle{
+	color: white;
+}
+#btnback{
+	border-color: blue;
+	color: purple;
+}
+#btnnext{
+	
+	background: linear-gradient(to right,blue, purple);
+}

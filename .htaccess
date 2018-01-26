@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^u/([0-9a-zA-Z]+) home.php?u=$1
